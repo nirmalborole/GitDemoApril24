@@ -3,4 +3,4 @@ adding git command:
 git init
 git push
 git merge
-git ignor
+git checkout

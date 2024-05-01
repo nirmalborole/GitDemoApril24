@@ -1,2 +1,1 @@
-here is file b for practicegit.
-I have modifies here
+here is file b for practicegit
